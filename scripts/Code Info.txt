@@ -1,3 +1,0 @@
-1. File Name : Assignment_Review_Web_Scrapping - This code will help to clean the assignments files which was scraped using postman api and after cleaning give marks.
-
-2. File Name : Code for average Return Time - This code will help us to understand how much avg return time is off education team and also help to get last 24 hr new-submission, rejected, accepted.
