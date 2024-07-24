@@ -7,23 +7,19 @@ This repository contains four main folders:
 1. **scripts**: 
    - This folder contains all the code necessary for cleaning our web scraping data as part of the assignment. 
    - It includes Python scripts which will help to clean the data we extracted from websites.
-   - <Python scripts for cleaning data>
 
 2. **output**: 
    - The "Output" folder is where you will find the result of the web scraping process.
    - This folder contains the output Excel sheet generated as a result of running the code.
    - You can access the final scraped data and results in this folder.
-   - <Output Excel sheet>
 
 3. **data_files**: 
-   - The "Source File" folder contains source files required to support the code which we extracted from web scraping using Postman API.
-   - <Source files for web scraping>
+   - The "data_files" folder contains source files required to support the code which we extracted from web scraping using Postman API.
 
 4. **Standard Operating Procedure (SOP)**: 
    - The "SOP" folder provides detailed instructions and guidelines on how to use the code in the "Code" folder for cleaning the assignment.
    - It also details how we should perform web scraping to obtain data from the Postman API.
    - This document outlines the step-by-step procedure for executing the process of web scraping using various tools.
-   - 
 
 ## Usage
 
@@ -45,6 +41,7 @@ To begin using this project, follow these steps:
    git clone <repository-url>
 
 2. Navigate to the project directory:
+   ```
    cd <repository-directory>
 
 3. Follow the instructions in the SOP document to execute the code and perform web scraping.
